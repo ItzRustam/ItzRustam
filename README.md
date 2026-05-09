@@ -74,6 +74,8 @@ Experimental AI agent system focusing on workflow automation and ML integration.
 
 ---
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rustam-Singh-Bhadouriya&theme=tokyonight)
+
 ## Objective
 
 Building next-generation AI systems and advancing toward high-performance ML engineering roles in top AI companies.
