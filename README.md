@@ -1,26 +1,79 @@
-<img alt="Coding" width="100%" src="https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif">
-<h1 align="center">Hi 👋, I'm Rustam Bhadouriya</h1>
-<h3 align="center">A passionate AI/ML & Backend developer</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Rustam-Singh-Bhadouriya&label=Profile%20views&color=0e75b6&style=flat" alt="code-king-dev" /> </p>
-<img align="right" alt="Coding" width="320"src="coding.gif">
+<h1 align="center">Rustam Bhadouriya</h1>
+<h3 align="center">Machine Learning Engineer | AI Systems Builder | Backend Developer</h3>
 
-<br>
-
-- 🌱 I’m currently Mastering **My Abilities**
-
-- 📫 How to reach me **rustambhadouriya7@gmail.com**
-
-- ⚡ Fun fact **I always Forgot to eat food when I was Writing Code 😅**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://discord.gg/PXZHbcxNaj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="he.ly" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Machine+Learning+Engineer;Transformer+Builder;AI+Systems+Developer;Scalable+ML+Engineer;Backend+%2B+AI+Integration&font=Fira%20Code&center=true&width=900&height=60&duration=2500&pause=1200&color=00C6FF&vCenter=true&size=22" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.w3schools.com/c/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
-</a></p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Rustam-Singh-Bhadouriya&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://img.shields.io/github/followers/Rustam-Singh-Bhadouriya?style=social" />
+</p>
 
+---
 
+## About Me
 
+Machine Learning Engineer focused on building scalable AI systems, deep learning architectures, and production-level ML pipelines.  
+I specialize in implementing models from scratch and understanding how AI systems actually work under the hood.
+
+- ML Systems & Deep Learning
+- Transformer Architecture Design
+- Backend + AI Integration
+- Research-to-Production Pipelines
+
+---
+
+## Tech Stack
+
+**AI / ML**
+Python • NumPy • Pandas • Scikit-learn • PyTorch • Transformers • NLP
+
+**Backend**
+Python • C++ • Java • Node.js • Django • REST APIs
+
+**Tools**
+Linux • Git • Docker • Jupyter • VS Code
+
+---
+
+## Featured Projects
+
+### ML Library From Scratch
+https://www.github.com/Rustam-Singh-Bhadouriya/rslearn-ML  
+Custom ML framework inspired by Scikit-learn with preprocessing, training, and evaluation pipeline.
+
+---
+
+### Transformer Implementation
+https://www.github.com/Rustam-Singh-Bhadouriya/transformer  
+Complete transformer architecture built from scratch with attention mechanism and training system.
+
+---
+
+### Kayo AI System
+https://www.github.com/Rustam-Singh-Bhadouriya/Kayo  
+Experimental AI agent system focusing on workflow automation and ML integration.
+
+---
+
+## GitHub Stats
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Rustam-Singh-Bhadouriya&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rustam-Singh-Bhadouriya&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=Rustam-Singh-Bhadouriya&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=Rustam-Singh-Bhadouriya&theme=tokyo-night&hide_border=true"/>
+</p>
+
+---
+
+## Objective
+
+Building next-generation AI systems and advancing toward high-performance ML engineering roles in top AI companies.
