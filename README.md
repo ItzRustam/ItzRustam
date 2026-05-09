@@ -73,7 +73,7 @@ Experimental AI agent system focusing on workflow automation and ML integration.
 
 ---
 
-![Rustams's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rustam-Singh-Bhadouriya&theme=dark&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rustam-Singh-Bhadouriya&theme=tokyonight)
 
 ## Objective
 
