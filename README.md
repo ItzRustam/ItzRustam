@@ -31,33 +31,33 @@ I specialize in implementing models from scratch and understanding how AI system
 ## Tech Stack
 
 **AI / ML**
-Python • NumPy • Pandas • Scikit-learn • PyTorch • Transformers • NLP
+Python • NumPy • Pandas • Scikit-learn • PyTorch • TensorFlow • Transformers • NLP • Custom RAG Models
 
 **Backend**
-Python • C++ • Java • Node.js • Django • REST APIs
+Python • Flask • Fast APIs
 
 **Tools**
-Linux • Git • Docker • Jupyter • VS Code
+Linux • Git • Docker • Jupyter
 
 ---
 
 ## Featured Projects
 
 ### ML Library From Scratch
-https://www.github.com/Rustam-Singh-Bhadouriya/rslearn-ML  
-Custom ML framework inspired by Scikit-learn with preprocessing, training, and evaluation pipeline.
+[rslearn-ML](https://www.github.com/Rustam-Singh-Bhadouriya/rslearn-ML)  
+Custom ML framework inspired by Scikit-learn with preprocessing, training, and evaluation pipeline. Deployed on PyPI.  
 
 ---
 
 ### Transformer Implementation
-https://www.github.com/Rustam-Singh-Bhadouriya/transformer  
+[Decoder Style Transformer](https://www.github.com/Rustam-Singh-Bhadouriya/transformer)   
 Complete transformer architecture built from scratch with attention mechanism and training system.
 
 ---
 
 ### Kayo AI System
-https://www.github.com/Rustam-Singh-Bhadouriya/Kayo  
-Experimental AI agent system focusing on workflow automation and ML integration.
+[Kayo](https://www.github.com/Rustam-Singh-Bhadouriya/Kayo)  
+AI Virtual Voice Assistent using Gemini API.
 
 ---
 
