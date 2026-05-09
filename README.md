@@ -7,7 +7,6 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Rustam-Singh-Bhadouriya&label=Profile%20Views&color=0e75b6&style=flat" />
-  <img src="https://img.shields.io/github/followers/Rustam-Singh-Bhadouriya?style=social" />
 </p>
 
 ---
@@ -74,7 +73,7 @@ Experimental AI agent system focusing on workflow automation and ML integration.
 
 ---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rustam-Singh-Bhadouriya&theme=tokyonight)
+![Rustams's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rustam-Singh-Bhadouriya&theme=dark&show_icons=true)
 
 ## Objective
 
