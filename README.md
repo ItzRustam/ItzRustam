@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Rustam-Singh-Bhadouriya&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=ItzRustam&label=Profile%20Views&color=0e75b6&style=flat" />
   <img src="https://img.shields.io/badge/Python-0e75b6?style=flat&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/Bash-121011?style=flat&logo=gnu-bash&logoColor=white" />
@@ -64,16 +64,16 @@ AI Virtual Voice Assistent using Gemini API.
 ## GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Rustam-Singh-Bhadouriya&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rustam-Singh-Bhadouriya&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ItzRustam&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItzRustam&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=Rustam-Singh-Bhadouriya&theme=tokyonight&hide_border=true"/>
+  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=ItzRustam&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=Rustam-Singh-Bhadouriya&theme=tokyo-night&hide_border=true"/>
+  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=ItzRustam&theme=tokyo-night&hide_border=true"/>
 </p>
 
 ---
