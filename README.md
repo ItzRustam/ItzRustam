@@ -44,19 +44,19 @@ Linux • Git • Docker • Jupyter
 ## Featured Projects
 
 ### ML Library From Scratch
-[rslearn-ML](https://www.github.com/Rustam-Singh-Bhadouriya/rslearn-ML)  
+[rslearn-ML](https://www.github.com/ItzRustam/rslearn-ML)  
 Custom ML framework inspired by Scikit-learn with preprocessing, training, and evaluation pipeline. Deployed on PyPI.  
 
 ---
 
 ### Transformer Implementation
-[Decoder Style Transformer](https://www.github.com/Rustam-Singh-Bhadouriya/transformer)   
+[Decoder Style Transformer](https://www.github.com/ItzRustam/transformer)   
 Complete transformer architecture built from scratch with attention mechanism and training system.
 
 ---
 
 ### Kayo AI System
-[Kayo](https://www.github.com/Rustam-Singh-Bhadouriya/Kayo)  
+[Kayo](https://www.github.com/ItzRustam/Kayo)  
 AI Virtual Voice Assistent using Gemini API.
 
 ---
