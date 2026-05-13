@@ -62,12 +62,6 @@ AI Virtual Voice Assistent using Gemini API.
 ---
 
 ## GitHub Stats
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ItzRustam&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItzRustam&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
 <p align="center">
   <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=ItzRustam&theme=tokyonight&hide_border=true"/>
 </p>
