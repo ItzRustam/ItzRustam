@@ -61,17 +61,6 @@ AI Virtual Voice Assistent using Gemini API.
 
 ---
 
-## GitHub Stats
-<p align="center">
-  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=ItzRustam&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=ItzRustam&theme=tokyo-night&hide_border=true"/>
-</p>
-
----
-
 ## Objective
 
 Building next-generation AI systems and advancing toward high-performance ML engineering roles in top AI companies.
