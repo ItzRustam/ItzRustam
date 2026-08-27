@@ -191,22 +191,6 @@ Tools       → VS Code • Jupyter
 
 ---
 
-# GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ItzRustam&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ItzRustam&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItzRustam&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 # Connect
 
 <p align="center">
@@ -215,12 +199,19 @@ Tools       → VS Code • Jupyter
   <img src="https://img.shields.io/badge/GitHub-ItzRustam-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
+<a href="https://www.kaggle.com/rustambhadouriya">
+  <img src="https://img.shields.io/badge/Kaggle-Rustam%20Bhadouriya-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
+</a>
+
+<a href="https://huggingface.co/ItzRustam">
+  <img src="https://img.shields.io/badge/Hugging%20Face-ItzRustam-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+</a>
+
 <a href="https://www.instagram.com/NULL404xD/">
   <img src="https://img.shields.io/badge/Instagram-NULL404xD-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 
 </p>
-
 ---
 
 <p align="center">
